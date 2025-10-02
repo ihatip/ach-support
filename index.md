@@ -1,5 +1,3 @@
-# App Support
-
 Thank you for using ACH!  
 
 If you need support, please contact us at:  
